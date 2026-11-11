@@ -1,6 +1,5 @@
 ## Hey, I am Pramukh 👋
 
-<!--
 I'm Pramukh Bhushan, a Senior Computer Science student at the University of Maryland, College Park.
 
 I'm interested in LLM inference and like using AI to automate business workflows
@@ -16,4 +15,4 @@ Claude Ambassador @ University of Maryland
 **How to reach me**
 Email: pramukh.bhushan@gmail.com
 LinkedIn: linkedin.com/in/pramukhbhushan
--->
+
