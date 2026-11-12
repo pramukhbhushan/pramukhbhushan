@@ -7,7 +7,6 @@ I'm interested in LLM inference and like using AI to automate business workflows
 ## 🔭 What I'm working on
 
 - **[mini-vllm](https://github.com/pramukhbhushan/mini-vllm):** a small-scale implementation of an LLM inference engine in Python, built to learn how serving systems like vLLM work.
-- **[CaliforniaWildfires](https://github.com/pramukhbhushan/CaliforniaWildfires):** <!-- edit: one line on the data and what you analyze or predict -->
 - **Currently exploring:** automating marketing with AI.
 
 ## 🎓 Community
